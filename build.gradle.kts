@@ -2,14 +2,11 @@
 /*all steps use it in this file are :
    convert all single quotes with double
    change the kotlin_version to a variable
-   use kotlin syntax as parantheses
+   use kotlin syntax as parentheses
    finally convert task using register to a register function
    and delete task clean function
  */
- */
- */
- */
- */
+
 buildscript {
     val kotlin_version = "1.3.72"
     repositories {
