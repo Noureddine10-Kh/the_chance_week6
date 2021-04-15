@@ -2,5 +2,4 @@
 
 This repository used for homework during week 6 in #TheChance course 
 
-## note 
-create a new branch to convert groovy code to kotlin DSL
+Convert Grooovy Code to Kotlin Code
